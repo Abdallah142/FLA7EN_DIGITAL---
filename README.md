@@ -79,7 +79,8 @@ python graph.py
 ```bash
 streamlit run ui_scrept.py
 ```
-
+## 📊 Model Analysis & Data Visualization
+![NASA POWER Model Analysis](matplotlib_analysis.png)
 ---
 
 ## ⚠️ Disclaimer
